@@ -37,22 +37,22 @@ Estou aberto a desafios que me permitam crescer tanto em habilidades técnicas q
 <table>
    <tr>
       <td align="center" width="96">
-         <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=js" width="30" height="30"/>
+         <a href="https://www.mysql.com/">
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" width="30" height="30"/>
          </a>
-         <br>Javascript
+         <br>MySQL
       </td>
       <td align="center" width="96">
-         <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=html" width="30" height="30"/>
+         <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi">
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi" width="30" height="30"/>
          </a>
-         <br>HTML5
+         <br>Power BI
       </td>
       <td align="center" width="96">
-         <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=css" width="30" height="30"/>
+         <a href="https://www.microsoft.com/pt-br/microsoft-365/excel">
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=excel" width="30" height="30"/>
          </a>
-         <br>CSS
+         <br>Excel
       </td>
       <td align="center" width="96">
          <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
@@ -67,10 +67,10 @@ Estou aberto a desafios que me permitam crescer tanto em habilidades técnicas q
          <br>Python
       </td>
       <td align="center" width="96">
-         <a href="https://www.python.org/">
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=sass" width="30" height="30"/>
+         <a href="https://aws.amazon.com/pt/free/?gclid=Cj0KCQiA19e8BhCVARIsALpFMgE9h3DtsI-0_eV1HwX_Y74Re7_6spmfLVsuQI9uDtzMsDcNi9gvoPcaAnyzEALw_wcB&trk=2ee11bb2-bc40-4546-9852-2c4ad8e8f646&sc_channel=ps&ef_id=Cj0KCQiA19e8BhCVARIsALpFMgE9h3DtsI-0_eV1HwX_Y74Re7_6spmfLVsuQI9uDtzMsDcNi9gvoPcaAnyzEALw_wcB:G:s&s_kwcid=AL!4422!3!696214219374!e!!g!!aws!15278604629!130587771740&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all">
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=aws" width="30" height="30"/>
          </a>
-         <br>Sass
+         <br>AWS
       </td>
       <td align="center" width="96">
          <a href="https://code.visualstudio.com/">
@@ -83,9 +83,9 @@ Estou aberto a desafios que me permitam crescer tanto em habilidades técnicas q
 
 ### Meus projetos
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gabvilla&repo=barber-landing-page&border_color=FFF&show_icons=true&theme=dracula)](https://github.com/gabvilla/barber-landing-page)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gabvilla&repo=personal-portifolio&border_color=FFF&show_icons=true&theme=dracula)](https://github.com/gabvilla/personal-portifolio)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gabvilla&repo=palindrome-checker&border_color=FFF&show_icons=true&theme=dracula)](https://github.com/gabvilla/palindrome-checker)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gabvilla&repo=python-dsa&border_color=FFF&show_icons=true&theme=dracula)](https://github.com/gabvilla/python-dsa)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gabvilla&repo=modelagem-ecommerce&border_color=FFF&show_icons=true&theme=dracula)](https://github.com/gabvilla/modelagem-ecommerce)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gabvilla&repo=rpg-ataque-das-classes&border_color=FFF&show_icons=true&theme=dracula)](https://github.com/gabvilla/rpg-ataque-das-classes)
 
 ### Github Stats
 
