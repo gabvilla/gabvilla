@@ -1,9 +1,13 @@
 <h1 align="center">Gabriel Villassanti👨🏽‍💻</h1>
-<h3 align="center">Desenvolvedor de Software</h3>
+<h3 align="center">Analista de Dados | Analista de BI</h3>
 
 ### Sobre mim:
 
-Sou um cientista da computação em formação, apaixonado por música e esportes e entusiasta da tecnologia. Atualmente trabalho na área de FP&A, focado em custos e orçamento, com experiência em sistemas ERP's e BI's como SAP e Qlik Cloud. Entendo que o conhecimento em tecnologia no geral está se tornando um requisito obrigatório para o mercado de inúmeras áreas. Juntando meu entusiasmo e paixão por tecnologia e essa necessidade do mercado, decidi me dedicar e aprender o desenvolvimento de software.
+Sou um profissional da área de FP&A com experiência em análise financeira, controle de orçamento e projeções, sempre com foco na entrega de resultados estratégicos para as empresas em que atuei. Durante minha trajetória, desenvolvi habilidades em ferramentas de análise de dados e automação de relatórios, o que despertou meu interesse pela área de Dados e Business Intelligence (BI).
+
+Atualmente, estou em transição para o campo de BI e Dados, buscando ampliar meu conhecimento em ferramentas como Power BI, SQL e análise de dados para transformar informações em insights valiosos. Estou motivado para aplicar minha experiência analítica, aprender novas técnicas e contribuir para equipes que busquem decisões mais baseadas em dados.
+
+Estou aberto a desafios que me permitam crescer tanto em habilidades técnicas quanto em meu desenvolvimento profissional, com o objetivo de agregar valor por meio de análises que impulsionem a tomada de decisões estratégicas.
 
 ### Atualmente...
 
